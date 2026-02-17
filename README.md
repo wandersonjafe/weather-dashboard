@@ -45,5 +45,5 @@ Siga estas etapas para clonar e rodar a aplicação em seu ambiente:
 ### 1. Clonar o Repositório
 
 ```bash
-git clone [https://www.youtube.com/shorts/3mMG25WHLkU](https://www.youtube.com/shorts/3mMG25WHLkU)
+git clone https://github.com/wandersonjafe/weather-dashboard.git
 cd weather-dashboard-springboot
